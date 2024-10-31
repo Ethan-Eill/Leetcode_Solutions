@@ -14,6 +14,7 @@
 //  ECE      10-27-2024   Initial Implementation
 //+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
+#include <algorithm>
 #include <iostream>
 #include <map>
 #include <stdlib.h>
